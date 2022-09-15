@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="896c9223-5539-46eb-91d1-ab598a15625c" name="DDL data source Mapping">
+      <data-sources db="10d7c16d-7ead-4f52-b812-a257c9eb6937" ddl="5473748b-d5c7-4755-9efc-f76e573527c2" />
+      <scope>
+        <node kind="schema" qname="joomla_joomla1" />
+      </scope>
+    </mapping>
+  </component>
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="2e98c0dd-3b01-405d-b828-b83cd36d6991" />
+          <option name="name" value="DDL data source VmmDB" />
+          <option name="languageId" value="MariaDB" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/exports" />
+            </array>
+          </option>
+        </State>
+        <State>
+          <option name="id" value="5473748b-d5c7-4755-9efc-f76e573527c2" />
+          <option name="name" value="DDL data source" />
+          <option name="languageId" value="MariaDB" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/src/main/resources/com/example/mapper" />
+            </array>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
